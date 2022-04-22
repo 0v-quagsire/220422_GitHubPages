@@ -9,10 +9,11 @@ permalink: /
     - 名前：0Vのヌオー(本名は非公開)  
     - 出生：32番どうろ     ではなく京都府福知山市  
     - 出身高校：兵庫県立兵庫高校    
-       - 母校のリンク[Google](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwik_audvKf3AhUnx4sBHfV5AacQFnoECAoQAQ&url=https%3A%2F%2Fwww.hyogo-c.ed.jp%2F~hyogo-hs%2F&usg=AOvVaw0UbB1N_VPPrseSpeJbXt0p)  
+       - 母校のリンク[兵庫高校](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwik_audvKf3AhUnx4sBHfV5AacQFnoECAoQAQ&url=https%3A%2F%2Fwww.hyogo-c.ed.jp%2F~hyogo-hs%2F&usg=AOvVaw0UbB1N_VPPrseSpeJbXt0p)  
     - 現在の住処：兵庫県神戸市    
     - 主な出現場所：近畿大学　Eキャンパス  
-
+- 趣味とか好きなこととか  
+    - 趣味：音楽をきく、ポケモンを遊ぶ、自転車に乗る、カメラで遊ぶ
 ここに内容を記述する！
 
 
